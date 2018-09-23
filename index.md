@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到薛喵喵的网站
 
 You can use the [editor on GitHub](https://github.com/z865401745/xuemiaomiao/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
